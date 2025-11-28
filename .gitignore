@@ -1,0 +1,30 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Rider IDE
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Local database files (not used for migrations)
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# System files
+*.DS_Store
+
+# Keep migrations folder (do NOT ignore)
+# Migrations/
