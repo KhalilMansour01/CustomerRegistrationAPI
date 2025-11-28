@@ -7,7 +7,6 @@ obj/
 *.user
 *.suo
 *.userprefs
-*.vscode/
 
 # Rider IDE
 .idea/
